@@ -12,8 +12,6 @@ const mirrorDomains = ["lbvrhyir.cc", "xxbgwypx.cc", "ediayikma.cc", "agdkczeyx.
 const categories = [
   { id: "ai-duanju", name: "AI 短剧" },
   { id: "ai-manju", name: "AI 漫剧" },
-  { id: "ai-huanlian", name: "AI 换脸" },
-  { id: "ai-mogai", name: "AI 魔改" },
 ];
 const rankingBoards = {
   "huangguo-hot": { name: "热播榜", path: "hot" },
