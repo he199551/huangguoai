@@ -7,8 +7,8 @@ const edgePlayback = "playback";
 const edgeMaxSequence = 16384;
 const edgeMaxLifetime = 600;
 const edgeSessionFailure = "黄果播放会话已失效";
-const baseMirrors = ["https://huangguoai.com", "https://thu.lbvrhyir.cc", "https://pku.xxbgwypx.cc", "https://ttvoij.ediayikma.cc", "https://thu.ediayikma.cc", "https://pku.ediayikma.cc", "https://fdu.ediayikma.cc", "https://thu.agdkczeyx.cc"];
-const mirrorDomains = ["lbvrhyir.cc", "xxbgwypx.cc", "ediayikma.cc", "agdkczeyx.cc"];
+const baseMirrors = ["https://huangguoai.com", "https://nku.ixgukkejj.cc", "https://sdu.ixgukkejj.cc", "https://pku.ixgukkejj.cc", "https://sysu.bmikbxhi.cc", "https://nju.bmikbxhi.cc", "https://xmu.bmikbxhi.cc"];
+const mirrorDomains = ["ixgukkejj.cc", "bmikbxhi.cc"];
 const categories = [
   { id: "ai-duanju", name: "AI 短剧" },
   { id: "ai-manju", name: "AI 漫剧" },
